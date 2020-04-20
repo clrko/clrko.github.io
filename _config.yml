@@ -59,6 +59,7 @@ author:
   name   : "Claire Kodia"
   avatar : "/assets/images/profilepic.jpg"
   bio    : "Full Stack Web Developer JavaScript / React.js / Node.js"
+  location: Paris
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
