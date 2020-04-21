@@ -1,12 +1,14 @@
 ---
 title: "Développeurs / Designers : comment collaborer?"
-author: Claire
-layout: post
-icon: fa-comments
-icon-style: solid
-categories: [blog, talk]
-tags: [talk, web design, développeur]
+date: 2020-04-02
+categories:
+  - talk
+tags: 
+  - web design
+  - developper 
+  - french
 ---
+
 Le talk dont je vous parle aujourd'hui à été organisé dans le cadre des Wild Talks par la Wild Code School et Benjamin Arthuys - UI/UX Consultant.
 
 Benjamin nous a sensibilisés au sujet de la collaboration entre développeurs et web designers. Il a identifié 5 manières d'améliorer cette collaboration.

@@ -1,11 +1,12 @@
 ---
-title: Présentation du SEO
-author: Claire
-layout: post
-icon: fa-comments
-icon-style: solid
-categories: [blog, talk]
-tags: [talk, SEO, référencement]
+title: "Présentation du SEO"
+date: 2020-03-26
+categories:
+  - talk
+tags: 
+  - SEO
+  - référencement
+  - french
 ---
 
 Dans le cadre de la formation à la Wild Code School, nous pouvons assister à des talks pour découvrir l'univers du numérique et mieux appréhender la place des développeurs dans cet écosystème. 
@@ -57,16 +58,24 @@ Afin de contourner ces problèmes, deux solutions peuvent être adoptées:
 * Dynamic rendering ou affichage dynamique qui consiste à afficher un contenu spécifique en fonction du type de client (bot ou utilisateur).
 
 
-> ### Leçons à retenir pour ma reconversion
+<div class="notice">
+  <h4>Leçons à retenir pour ma reconversion</h4>
+  <br>
+  <p>En tant que développeuse, je prends conscience de l'influence directe de mon travail sur le référencement. Je dispose de plusieurs leviers d'optimisation comme la mise en place de fichiers HTML bien structurés, le choix du langage de programmation et également plusieurs autres éléments abordés lors du talk mais non mentionnés dans cet article (par exemple le maillage pour accroitre la popularité d'une page grace aux urls ou encore la mise en place d'un sitemap pour indiquer au bot les pages à explorer en priorité).
+  <br/>
+  <br>
+  Maxime nous a également partagé une boite à outils SEO dont voici les principaux éléments:
+  </p>
+  <ul>
+  		<li>Web developer tools ;</li>
+  		<li>Wappalyzer pour connaitre le CMS ou framework d'un site ;</li>
+  		<li>Le plugin View Rendered Source pour observer les différences entre le contenu HTML et le contenu JS ;</li>
+  		<li>L'outil Sitemap Generator pour facilement générer des sitemap ;</li>
+  		<li>Le Page Rank Simulator pour mesurer l'importance des pages d'un siteweb.</li>
+  </ul>
 
-> En tant que développeuse, je prends conscience de l'influence directe de mon travail sur le référencement. Je dispose de plusieurs leviers d'optimisation comme la mise en place de fichiers HTML bien structurés, le choix du langage de programmation et également plusieurs autres éléments abordés lors du talk mais non mentionnés dans cet article (par exemple le maillage pour accroitre la popularité d'une page grace aux urls ou encore la mise en place d'un sitemap pour indiquer au bot les pages à explorer en priorité).
+</div>
 
->Maxime nous a également partagé une boite à outils SEO dont voici les principaux éléments:
->* Web developer tools ;
->* Wappalyzer pour connaitre le CMS ou framework d'un site ;
->* Le plugin View Rendered Source pour observer les différences entre le contenu HTML et le contenu JS ;
->* L'outil Sitemap Generator pour facilement générer des sitemap ;
->* Le Page Rank Simulator pour mesure rl'importance des pages d'un siteweb.
 
 Si vous avez des commentaires ou ressources à partager, n'hésitez pas à me contacter. 
 
