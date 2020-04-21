@@ -3,7 +3,10 @@ permalink: /about/
 title: "About"
 ---
 
+
 ## Who I am? What makes my profile so attractive ?
+
+<img src="../assets/images/aboutme.jpg" alt="Claire Kodia" style="width:150px" class="align-right" />
 
 First things first, I am Claire and after getting a master’s degree in management and working in the finance industry, I have decided to take up a new challenge: transition to a web development position.
 
@@ -32,6 +35,9 @@ However, who could have thought that I would develop so many valuable skills for
 
 Well, it seems like we have reached the end of the section but not the end of the topics I wish to discuss. So if you want to know more, do not hesitate contact me and follow me on social networks!
 
-* Email: claire.kodia@gmail.com
-* Twitter: [@clrkodia](https://twitter.com/clrkodia)
-* Linkedin: [clairekodia](https://www.linkedin.com/in/clairekodia/?locale=en_US)
+
+<ul style="list-style:none; padding:0;">
+    <li>Email: claire.kodia@gmail.com</li>
+    <li>Twitter:<a href="https://twitter.com/clrkodia" alt="Link to my Twitter account" >@clrkodia</a></li>
+    <li>Linkedin:<a href="https://www.linkedin.com/in/clairekodia/?locale=en_US" alt="Link to my LinkedIn account" >clairekodia</a></li>
+</ul>
