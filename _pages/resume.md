@@ -1,7 +1,6 @@
 ---
 title: CV / Resume
 permalink: /resume/
-entries_layout: grid
 ---
 <div>
 <h2>Click to get my cv / resume</h2>
