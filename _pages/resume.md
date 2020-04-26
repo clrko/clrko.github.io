@@ -1,6 +1,7 @@
 ---
 title: CV / Resume
 permalink: /resume/
+author_profile: true
 ---
 <div>
 <h2>Click to get my cv / resume</h2>
