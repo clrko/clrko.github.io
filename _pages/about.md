@@ -17,7 +17,7 @@ Well, let’s just say it requires a lot of dedication and at least an appetite 
 * Dedication? Checked! I love attending tech meet ups, I watch tutorial on YouTube, read blog articles and I am currently attending the Wild Code School Web Development bootcamp to boost my learning path. 
 * Appetite for programming? Well, I have been interested in programming for quite some time now. I have started with VBA during my studies and took on Python while I was in Japan. That is when I got really passionate about it : I became aware of all the things it would enable me to do.
 
-More precisely, I got attracted to embedded systems and started projects on microcontrollers in microPython. I am also interested in the opportunities offered by programming to tackle society and environmental issues.
+More precisely, I got attracted to embedded systems and started projects on microcontrollers in MicroPython. I am also interested in the opportunities offered by programming to tackle society and environmental issues.
 
 ### You want to know more things about me?
 
