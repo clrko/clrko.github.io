@@ -3,6 +3,8 @@ main:
     url: /about/
   - title: "Articles"
     url: /posts/
+  - title: "CV - Resume"
+    url: /resume/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Contact"
