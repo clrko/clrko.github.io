@@ -4,7 +4,7 @@ main:
   - title: "Articles"
     url: /posts/
   - title: "CV - Resume"
-    url: /resume/
+    url: /resume_cv/
   - title: "Portfolio"
     url: /portfolio/
   - title: "Contact"

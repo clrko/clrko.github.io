@@ -1,6 +1,6 @@
 ---
-title: CV / Resume
-permalink: /resume/
+title: CV - Resume
+permalink: /resume_cv/
 author_profile: true
 ---
 <div>
