@@ -8,8 +8,8 @@ Want to get in touch? You have the choice!
 
 <ul style="list-style:none; padding:0;">
     <li>Email: claire.kodia@gmail.com</li>
-    <li>Twitter:<a href="https://twitter.com/clrkodia" alt="Link to my Twitter account" >@clrkodia</a></li>
-    <li>Linkedin:<a href="https://www.linkedin.com/in/clairekodia/?locale=en_US" alt="Link to my LinkedIn account" >clairekodia</a></li>
+    <li>Twitter:&nbsp;<a href="https://twitter.com/clrkodia" alt="Link to my Twitter account" >@clrkodia</a></li>
+    <li>Linkedin:&nbsp;<a href="https://www.linkedin.com/in/clairekodia/?locale=en_US" alt="Link to my LinkedIn account" >clairekodia</a></li>
 </ul>
 
 You can also send me a message via this form:
