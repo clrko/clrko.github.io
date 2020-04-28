@@ -21,7 +21,7 @@ Anyway, it took me some time to start figuring out. I had to wait until joining 
 
 No, definitely not! On the contrary I have learnt so much! 
 
-Obviously, I have acquired strong analytical and financial skills. I value teamwork too. However, I needed to actually hear the feedbacks from my teammates from Wild Code School, to realize what was behind  I have my organizational skills . However, who could have thought that I would develop so many valuable skills for web development and let me tell you: Interpersonal, communication and commercial skills are just the beginning. You can find more details here [lien]. 
+Obviously, I have acquired strong analytical and financial skills. I value teamwork too. However, I needed to actually hear the feedbacks from my teammates from Wild Code School, to realize what were my real skills  I have my organizational skills . However, who could have thought that I would develop so many valuable skills for web development and let me tell you: Interpersonal, communication and commercial skills are just the beginning. You can find more details here [lien]. 
 
 
 Firstly, in addition to the obvious analytical and financial related skills, who could have thought that I would have developed deep interpersonal skills and a good ability to communicate. Finance professionals needs to be able to build successful relationship with customers. it is even critical if you want to excel in business related positions like when I was working at HSBC.
