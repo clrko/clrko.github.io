@@ -1,6 +1,8 @@
 ---
 title: "Développeurs / Designers : comment collaborer?"
 date: 2020-04-02
+header:
+  image: /assets/images/chris-liverani-collaboration.jpg
 categories:
   - talk
 tags: 
@@ -24,8 +26,10 @@ C'est le cas notamment du *versioning*. Les développeurs vont utiliser des outi
 
 5. Il faut garder à l'esprit que designers et développeurs travaillent tous pour atteindre le même objectif. Ainsi, il ne faut faire qu'un autour du produit et se concentrer sur l'utilisateur.
 
-> ### Leçons à retenir pour ma reconversion
+<img src="/assets/images/element5-teaching.jpg" alt="red apple fruit on four pyle books"  class="align-center" />
 
+> ### Leçons à retenir pour ma reconversion
+>
 > A l'issue de ce talk, j'ai donc pris conscience des enjeux liés à une collaboration entre développeurs et designers. 
 Il ne suffit finalement pas de se dire ou de savoir qu'on travaille pour le même client, pour arriver à mener un projet de manière efficace et épanouissante. 
 Une connaissance et une bonne écoute des parties prenantes du projet est nécessaire. Il faut s'intéresser aux problématiques rencontrées par les autres et, savoir faire des compromis lorsque c'est nécessaire.
@@ -36,3 +40,10 @@ Si vous avez des commentaires ou ressources à partager, n'hésitez pas à me co
 Je vous remercie,
 
 Claire
+
+<div>
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@element5digital?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Element5 Digital"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Element5 Digital</span></a>
+
+<a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@chrisliverani?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Chris Liverani"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Chris Liverani</span></a>
+
+</div>

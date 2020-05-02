@@ -1,6 +1,8 @@
 ---
 title: "Are my years working in Finance really lost as a programmer?"
 date: 2020-04-28
+header:
+  image: /assets/images/ian-schneider_passionledushere.jpg
 categories:
   - blog
 tags: 
@@ -13,8 +15,6 @@ tags:
 
 I had not initially planned on writing a full article on this topic. It was supposed to be a small paragraph in the about me page. At first, when I decided to quit my comfy consulting job and take the plunge, my family and close friends would ask me this exact same question : "Are your years working in Finance really lost?"
 
-<img src="../assets/images/ian-schneider_passionledushere.jpg" alt="Two person standing on gray tile paving" style="width:150px" class="align-center" />
-
 At this time, I was actually still trying to figure it out. I did not have enough hindsight to find an answer. I would say: "No, they are not! I am just taking an other orientation for the time being and in the long term if and when I start my own company, everything I have learnt from my previous experiences will be useful." Yeah.. I know.. It was probably more of a reassurance than to fully studied plan. 
 
 Anyway, it took me some time to start figuring it out. I had to wait until joining the Wild Code School and meeting people from the programming world though meet ups and web conferences to finally find a first answer. 
@@ -25,7 +25,7 @@ Obviously, I have acquired strong analytical and financial skills. I value teamw
 
 ## Communication 
 
-<img src="../assets/images/chris-liverani-collaboration.jpg" alt="Two person shaking hands near white painted wall" style="width:150px" class="align-left" />
+<img src="/assets/images/chris-liverani-collaboration.jpg" alt="Two person shaking hands near white painted wall" style="width:300px" class="align-left" />
 
 Firstly, in addition to the obvious analytical and financial related skills, who could have thought that I would have developed deep interpersonal skills and a good ability to communicate. Finance professionals need to be able to build successful relationship with customers. It is even more critical if you want to excel in business related positions like when I was working at real estate leasing analyst at HSBC France. In my deal structuring and origination role, I would assist the client from the quotation to the closing with notary.
 
@@ -33,7 +33,7 @@ Firstly, in addition to the obvious analytical and financial related skills, who
 
 ## Innovation
 
-<img src="../assets/images/nikita-kachanovsky_thinkoutsidethebox.jpg" alt="Think outside the box" style="width:150px" class="align-right" />
+<img src="/assets/images/nikita-kachanovsky_thinkoutsidethebox.jpg" alt="Think outside the box" style="width:250px" class="align-right" />
 
 Secondly, I have developed a capacity for innovation. Finance is not about routines and numbers but about providing accurate data to support the lifecycle and development of your business. In this case, when you need to do regular reporting, when you need to share financials to large audience, when you need to ensure the accuracy of your data etc. you need to think and rethink your processes and systems. Sometimes, I would think on a way to automize my work, other times I would think on a new dynamic dashboard to help supporting the decision-making process related to a new business with new data. 
 
@@ -46,7 +46,7 @@ Thirdly, I have also acquired a good knowledge and proficiency on IT softwares. 
 
 ## Decision-making skills
 
-<img src="../assets/images/vladislav-babienko-decisionmaking.jpg" alt="Man standing in the middle of woods" style="width:150px" class="align-left" />
+<img src="/assets/images/vladislav-babienko-decisionmaking.jpg" alt="Man standing in the middle of woods" style="width:190px" class="align-left" />
 
 
 Furthermore, I have developed strong problem-solving and decision-making skills. In the finance industry, especially during my experience in Treasury, I needed to be able to tackle complex problems as they arose either when managing the integration of new acquired entities or when working on the daily treasury management. I have learnt to asses efficiently the financial, compliance and technical implications of any decision to be made. 
