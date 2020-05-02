@@ -10,9 +10,7 @@ tags:
   - english
 ---
 
-Hi all, 
-
-Here I am sharing with my toolbox to do my tech watch. 
+Hi all, I am sharing here the resources I consult to do my tech and greentech watch. 
 
 ## Talks
 
