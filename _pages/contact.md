@@ -1,22 +1,23 @@
 ---
-title: "Contact me"
+title: "Want to get in touch?"
 permalink: /contact/
+header:
+  image: /assets/images/melinda-gimpel-contact.jpg
 author_profile: true
 ---
 
-Want to get in touch? You have the choice!
+<div style="display: flex; justify-content: space-around; margin-top:10px;">
 
 <ul style="list-style:none; padding:0;">
-    <li><i class="fas fa-at"></i>claire.kodia@gmail.com</li>
-    <li><i class="fab fa-twitter"></i>&nbsp;<a href="https://twitter.com/clrkodia" alt="Link to my Twitter account" >@clrkodia</a></li>
-    <li><i class="fab fa-linkedin"></i>&nbsp;<a href="https://www.linkedin.com/in/clairekodia/?locale=en_US" alt="Link to my LinkedIn account" >clairekodia</a></li>
+    <li><a href="https://twitter.com/clrkodia" alt="Link to my Twitter account" ><i class="fab fa-twitter"></i>&nbsp;@clrkodia</a></li>
+    <li><a href="https://www.linkedin.com/in/clairekodia/?locale=en_US" alt="Link to my LinkedIn account" ><i class="fab fa-linkedin"></i>&nbsp;clairekodia</a></li>
 </ul>
 
-You can also send me a message via this form:
 
 <form
   action="https://formspree.io/meqlypka"
   method="POST"
+  style="width:60%"
 >
   <label>
     Your name:
@@ -36,3 +37,7 @@ You can also send me a message via this form:
 
   <button type="submit">Send</button>
   </form>
+
+  </div>
+
+  <a style="background-color:black;color:white;text-decoration:none;padding:4px 6px;font-family:-apple-system, BlinkMacSystemFont, &quot;San Francisco&quot;, &quot;Helvetica Neue&quot;, Helvetica, Ubuntu, Roboto, Noto, &quot;Segoe UI&quot;, Arial, sans-serif;font-size:12px;font-weight:bold;line-height:1.2;display:inline-block;border-radius:3px" href="https://unsplash.com/@melindagimpel?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge" target="_blank" rel="noopener noreferrer" title="Download free do whatever you want high-resolution photos from Melinda Gimpel"><span style="display:inline-block;padding:2px 3px"><svg xmlns="http://www.w3.org/2000/svg" style="height:12px;width:auto;position:relative;vertical-align:middle;top:-2px;fill:white" viewBox="0 0 32 32"><title>unsplash-logo</title><path d="M10 9V0h12v9H10zm12 5h10v18H0V14h10v9h12v-9z"></path></svg></span><span style="display:inline-block;padding:2px 3px">Melinda Gimpel</span></a>

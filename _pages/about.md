@@ -1,16 +1,17 @@
 ---
 permalink: /about/
-title: "About"
+title: "Who I am? What makes my profile so attractive ?"
+header:
+  image: /assets/images/BannièreSeptember2020.jpg
+
 ---
 
-
-## Who I am? What makes my profile so attractive ?
-
-<img src="../assets/images/aboutme.jpg" alt="Claire Kodia" style="width:150px" class="align-right" />
+<img src="/assets/images/aboutme.jpg" alt="Claire Kodia" style="width:100px" class="align-left" />
 
 First things first, I am Claire and after getting a master’s degree in management and working in the finance industry, I have decided to take up a new challenge: transition to a web development position.
-
-### You would ask : isn’t it too difficult?
+<br>
+<br>
+## You would ask : isn’t it too difficult?
 
 Well, let’s just say it requires a lot of dedication and at least an appetite for programming. 
 
@@ -19,7 +20,7 @@ Well, let’s just say it requires a lot of dedication and at least an appetite 
 
 More precisely, I got attracted to embedded systems and started projects on microcontrollers in MicroPython. I am also interested in the opportunities offered by programming to tackle society and environmental issues.
 
-### You want to know more things about me?
+## You want to know more things about me?
 
 Just to keep it short, I have listed a few things:
 
@@ -27,11 +28,11 @@ Just to keep it short, I have listed a few things:
 * Thanks to my organisation skills and my rigor, I have managed to make the most of my previous, both personal and professional, experiences.
 * I am an active and sociable person; pleasant to be with I recall.
 
-### But I know what you are really wondering! Are my years working in Finance really lost?
+## But I know what you are really wondering! Are my years working in Finance really lost?
 
 Definitely not! Through my 4 years working in the finance Industry I have learnt so much! Obviously, I have acquired strong analytical and financial skills. I value teamwork too. 
 
-However, who could have thought that I would develop so many valuable skills for web development. And let me tell you: Interpersonal, communication and commercial skills are just the beginning. You can find more details here [lien].
+However, who could have thought that I would develop so many valuable skills for web development. And let me tell you: Interpersonal, communication and commercial skills are just the beginning. You can find more details [here](/blog/finance_takeaway/).
 
 Well, it seems like we have reached the end of the section but not the end of the topics I wish to discuss. So if you want to know more, do not hesitate contact me and follow me on social networks!
 
