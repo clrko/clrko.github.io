@@ -6,10 +6,11 @@ header:
   image: /assets/images/bench-accounting-skills.jpg
 
 ---
-<div>
-<h2>Click to get my cv / resume</h2>
-<a href="../assets/resume/cv_claire_kodia.pdf" target="_blank"><button> 🇫🇷French version</button></a>
-<a href="../assets/resume/resume_claire_kodia.pdf" target="_blank"><button> 🇬🇧/ 🇺🇸 English version</button></a>
+
+<h2>Download</h2>
+<div style="display: flex; justify-content: space-around; margin-top:50px;">
+<a href="../assets/resume/cv_claire_kodia.pdf" target="_blank"><button class="page__taxonomy-item"> 🇫🇷French version</button></a>
+<a href="../assets/resume/resume_claire_kodia.pdf" target="_blank"><button class="page__taxonomy-item"> 🇬🇧/ 🇺🇸 English version</button></a>
 </div>
 
 <div>
