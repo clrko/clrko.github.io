@@ -16,7 +16,7 @@ gallery:
     alt: "Webcam view"
 ---
 
-The [Travel Memory Game](https://travel-memory-game.netlify.app/) is a front-end web application developed on April 29th/30th during a 24h hackathon at Wild Code School on the topic of travelling from the couch. I was part of a 6-member team and we had only one requirement: using an api.   
+The [Travel Memory Game](https://travelmemorygame.netlify.app/) is a front-end web application developed on April 29th/30th during a 24h hackathon at Wild Code School on the topic of travelling from the couch. I was part of a 6-member team and we had only one requirement: using an api.   
 
 We decided to design a game that a user in locked down would play in order to travel by seeing webcam videos of a country of his choice. In order to play, you first need to select a country and a category. Then, based on these two criteria, a memory game session will be generated. The objective is to find the 8 matching cards to win an access to the webcam of the chosen country. 
 
@@ -24,8 +24,16 @@ We decided to design a game that a user in locked down would play in order to tr
 
 For my team and I developing a game has been a good way to materialize what we had been learning during the first 2 months of the program, to consolidate our skills in React.js and learn how to use the hooks. 
 
-We have used 2 api :
+In addition we have used 2 api :
 * [Pixabay](https://pixabay.com/api/): we got from the api the images to be displayed in the game session based on 2 parameters: the country and the category (beach, nature etc.)
 * [Windy](https://api.windy.com/webcams/docs): we got an access to a repository of webcams based on the country selected by the user. 
 
- 👉https://travel-memory-game.netlify.app/
+<div style="display:flex; justify-content:space-around; margin:30px 0;">
+<img src="/assets/logo/HTML5_Logo.svg"  alt="HTML5 logo" style="width: 100px; height: auto;"/>
+<img src="/assets/logo/CSS3_Logo.svg"  alt="CSS3 logo" style="width: 70px; height: auto;"/>
+<img src="/assets/logo/JS_Logo.svg"  alt="JavaScript logo" style="width: 70px; height: auto;"/>
+<img src="/assets/logo/Reactjs_Logo.svg"  alt="ReactJS logo" style="width: 90px; height: auto; grid-column: 2"/>
+</div>
+
+👉Play [here](https://travelmemorygame.netlify.app/) <br/>
+👉Access the repo [here](https://github.com/clrko/travel_memory_card)
