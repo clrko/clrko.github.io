@@ -64,7 +64,7 @@ author:
   name   : "Claire Kodia"
   avatar : "/assets/images/profilepic.jpg"
   bio    : "Full Stack Web Developer JavaScript / React.js / Node.js"
-  location: Paris
+  location: Paris, France
   links:
 #  - label: "Website"
 #    icon: "fas fa-fw fa-link"
@@ -74,7 +74,7 @@ author:
       url: "https://twitter.com/clrkodia"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/clrko"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/clairekodia/?locale=en_US"
