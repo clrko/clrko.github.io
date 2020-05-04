@@ -1,6 +1,6 @@
 ---
 title: "Drake R. Porter"
-excerpt: "Development of a responsive showcase website for a photographer"
+excerpt: "A responsive showcase website for Drake R. Porter alias Dark Reporter, a fictive reporter"
 header:
   image: /assets/images/drakerporter/drakerporter_hiddenaccess.png
   teaser: assets/images/drakerporter/drakerporter_hiddenaccess.png
