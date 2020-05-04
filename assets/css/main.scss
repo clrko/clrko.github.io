@@ -7,12 +7,16 @@
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
 
-.archive a, .archive a:active, .archive a:visited {
+a, a:active, a:visited {
     color: #111;
     -webkit-text-decoration-color: #999;
     text-decoration-color: #999;
     -webkit-text-decoration-skip: ink;
     text-decoration-skip-ink: auto;
+}
+
+.page__footer a {
+    color: inherit;
 }
 
 .grid__item .archive__item-excerpt {
