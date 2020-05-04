@@ -37,4 +37,4 @@ In addition we have used 2 api :
 </div>
 
 👉Play [here](https://travelmemorygame.netlify.app/) <br/>
-👉Access the repo [here](https://github.com/clrko/travel_memory_card)
+👉Check the source code [here](https://github.com/clrko/travel_memory_card)
