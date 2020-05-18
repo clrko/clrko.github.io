@@ -4,7 +4,7 @@ excerpt: "An amazing app to play when you are locked down !"
 header:
   image: /assets/images/travel_memory_game/travel_memory_game_homepage.png
   teaser: assets/images/travel_memory_game/travel_memory_game_homepage.png
-order: 1
+order: 3
 gallery:
   - url: /assets/images/travel_memory_game/travel_memory_game_homepage.png
     image_path: assets/images/travel_memory_game/travel_memory_game_homepage.png

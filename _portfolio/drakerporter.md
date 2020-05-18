@@ -4,7 +4,7 @@ excerpt: "A responsive showcase website for Drake R. Porter alias Dark Reporter,
 header:
   image: /assets/images/drakerporter/drakerporter_hiddenaccess.png
   teaser: assets/images/drakerporter/drakerporter_hiddenaccess.png
-order: 3
+order: 1
 gallery:
   - url: /assets/images/drakerporter/drakerporter_publicpage.png
     image_path: assets/images/drakerporter/drakerporter_publicpage.png
