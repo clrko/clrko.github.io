@@ -1,6 +1,6 @@
 ---
 title: "Checkpoint 2 - List Games"
-excerpt: "A responsive web app created to review the notion learnt on Front-End during the first 2 months at Wild Code School"
+excerpt: "A responsive react app to display video game data."
 header:
   image: /assets/images/checkpoint_list_games/landingpage.png
   teaser: assets/images/checkpoint_list_games/landingpage.png
