@@ -40,12 +40,12 @@ We were able to build this app with the courtesy of [Napster](https://developer.
 <div style="display:flex; justify-content:space-around; margin:30px 0;">
 <img src="/assets/logo/CSS3_Logo.svg"  alt="CSS3 logo" style="width: 70px; height: auto;"/>
 <img src="/assets/logo/Reactjs_Logo.svg"  alt="ReactJS logo" style="width: 90px; height: auto; grid-column: 2"/>
-<img src="../assets/logo/Nodejs_Logo.svg"  alt="NodeJS logo" style="width: 80px; height: auto;"/>
+<img src="/assets/logo/Nodejs_Logo.svg"  alt="NodeJS logo" style="width: 80px; height: auto;"/>
 <img src="https://img.icons8.com/ios-filled/90/000000/mysql-logo.png" alt="MySQL logo" style="grid-column: 3"/>
-<img src="../assets/logo/Github_Logo.svg"  alt="GitHub logo" style="width: 90px; height: auto; grid-column: 4"/>
+<img src="/assets/logo/Github_Logo.svg"  alt="GitHub logo" style="width: 90px; height: auto; grid-column: 4"/>
 </div>
 
 <!-- 👉Play [here](https://travelmemorygame.netlify.app/)  -->
 👉App to be deployed shortly<br/>
-👉Check the source code for the Frontend [here](https://github.com/WildCodeSchool/paris-0320-project2-BlindTest)
+👉The source code for the Frontend will be available soon<br/>
 👉Check the source code for the Backend [here](https://github.com/clrko/Back_BindTest)
