@@ -18,9 +18,6 @@ gallery:
   - url: /assets/images/thunder/userpage.png
     image_path: assets/images/thunder/userpage.png
     alt: "View of the user page"
-  - url: /assets/images/thunder/modepage_mobile.png
-    image_path: assets/images/thunder/modepage_mobile.png
-    alt: "Choose of the game mode mobile version"
   - url: /assets/images/thunder/themepage_mobile.png
     image_path: assets/images/thunder/themepage_mobile.png
     alt: "Choose of the musical genre mobile version"
