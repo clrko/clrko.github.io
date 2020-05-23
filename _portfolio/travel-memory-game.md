@@ -26,7 +26,7 @@ We decided to design a game that a user in locked down would play in order to tr
 For my team and I developing a game has been a good way to materialize what we had been learning during the first 2 months of the program, to consolidate our skills in React.js and learn how to use the hooks. 
 
 In addition we have used 2 api :
-* [Pixabay](https://pixabay.com/api/): we got from the api the images to be displayed in the game session based on 2 parameters: the country and the category (beach, nature etc.)
+* [Pixabay](https://pixabay.com/api/docs): we got from the api the images to be displayed in the game session based on 2 parameters: the country and the category (beach, nature etc.)
 * [Windy](https://api.windy.com/webcams/docs): we got an access to a repository of webcams based on the country selected by the user. 
 
 <div style="display:flex; justify-content:space-around; margin:30px 0;">
