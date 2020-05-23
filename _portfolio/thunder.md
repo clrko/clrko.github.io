@@ -54,7 +54,7 @@ We were able to build this app with the courtesy of [Napster](https://developer.
 
 <div style="display:flex; justify-content:space-around; margin:30px 0;">
 <img src="/assets/logo/Reactjs_Logo.svg"  alt="ReactJS logo" style="width: 90px; height: auto; grid-column: 2"/>
-<img src="../assets/logo/JS_Logo.svg"  alt="JavaScript logo" style="width: 70px; height: auto;"/>
+<img src="/assets/logo/JS_Logo.svg"  alt="JavaScript logo" style="width: 70px; height: auto;"/>
 <img src="/assets/logo/HTML5_Logo.svg"  alt="HTML5 logo" style="width: 100px; height: auto;"/>
 <img src="/assets/logo/CSS3_Logo.svg"  alt="CSS3 logo" style="width: 70px; height: auto;"/>
 <img src="/assets/logo/Nodejs_Logo.svg"  alt="NodeJS logo" style="width: 80px; height: auto;"/>
