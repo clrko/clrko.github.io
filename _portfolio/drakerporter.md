@@ -19,7 +19,7 @@ gallery:
 
 The [Drake R. Porter](https://clrko.github.io/DrakeRporter/) showcase website was the first project we developed as part of the Wild Code School curriculum. 
 
-The instruction was to develop a responsive showcase website for a fictif photographer. We were free to choose the story behind it but we were required to use only pur CSS and HTML (no framework). 
+The instruction was to develop a responsive showcase website for a fictional photographer. We were free to choose the story behind it but we were required to use only CSS3 and HTML5 (no framework). 
 
 The objective for us was to consolidate and broaden our knowledge on HTML5 and CSS3 (and later on JavaScript vanilla).
 
@@ -27,7 +27,7 @@ We decided to make use of as many features as possible. For instance, we used CS
 
 {% include gallery caption="These are some screenshot from the game" %}
 
-To underline the different features, we decided to do something a quite unexpected. It is about a fictional reporter that travels around the world searching for illegal and surprising products. To hide the access of his website, we made a fake repelling public website (Drake R Porter). The real website (Dark Reporter) can only be accessed by clicking on the copyright.
+To underline the different features, we decided to do something quite unexpected. It is about a fictional reporter that travels around the world searching for illegal and surprising products. To hide the access of his website, we made a fake repelling public website (Drake R Porter). The real website (Dark Reporter) can only be accessed by clicking on the copyright.
 
  **NB: The website is ugly on purpose and the information displayed is not to be taken seriously.** 
 

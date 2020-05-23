@@ -17,7 +17,7 @@ gallery:
     alt: "Webcam view"
 ---
 
-The [Travel Memory Game](https://travelmemorygame.netlify.app/) is a front-end web application developed on April 29th/30th during a 24h hackathon at Wild Code School on the topic of travelling from the couch. I was part of a 6-member team and we had only one requirement: using an api.   
+The [Travel Memory Game](https://travelmemorygame.netlify.app/) is a front-end web application developed on April 29th/30th during a 24h hackathon at Wild Code School on the topic of traveling from the couch. I was part of a 6-member team and we had only one requirement: using an api.   
 
 We decided to design a game that a user in locked down would play in order to travel by seeing webcam videos of a country of his choice. In order to play, you first need to select a country and a category. Then, based on these two criteria, a memory game session will be generated. The objective is to find the 8 matching cards to win an access to the webcam of the chosen country. 
 

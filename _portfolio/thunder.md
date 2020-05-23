@@ -37,7 +37,9 @@ gallery:
 
 Thunder is a full-stack musical quiz web application. It has been developed for 5 weeks within Wild Code School curriculum during April and May 2020. I was part of a 4-member team and the main challenge for us was to be able to develop this application applying the SCRUM methodology and working full remote, given the coronavirus health crisis. 
 
-The instructions for this 5-week project was to develop a Frontend web app using React.js and relying upon an API. Thunder is a musical quiz based on the Napster API. A user would enter a username, and choose a mode between two choices:
+The instructions for this 5-week project were to develop a Frontend web app using React.js and relying upon an API. 
+
+Thunder is a musical quiz based on the Napster API. A user would enter a username, and choose a mode between two choices:
 
 * Standard : 10 questions on a musical genre of his choice (21 possibilities available);
 * Survival: unlimited number of questions on random themes.
