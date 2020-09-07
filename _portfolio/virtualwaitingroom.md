@@ -1,33 +1,46 @@
 ---
 title: "Virtual Waiting Room"
-excerpt: "A front-end web application developed during a remote hackathon with Doctolib, Dataiku and Wild Code School on the topic of remote healthcare."
+excerpt: "An award-winning web application on the topic of remote healthcare"
 header:
   image: /assets/images/virtual_waiting_room/first_prize.png
   teaser: assets/images/virtual_waiting_room/first_prize.png
 order: 5
 gallery:
-  - url: /assets/images/travel_memory_game/travel_memory_game_homepage.png
-    image_path: assets/images/travel_memory_game/travel_memory_game_homepage.png
-    alt: "Homepage"
-  - url: /assets/images/travel_memory_game/travel_memory_game_gamesession.png
-    image_path: assets/images/travel_memory_game/travel_memory_game_gamesession.png
-    alt: "Game session"
-  - url: /assets/images/travel_memory_game/travel_memory_game_webcam.png
-    image_path: assets/images/travel_memory_game/travel_memory_game_webcam.png
-    alt: "Webcam view"
+  - url: /assets/images/virtual_waiting_room/join_the_consultation.png
+    image_path: assets/images/virtual_waiting_room/join_the_consultation.png
+    alt: "Simulated doctolib interface"
+  - url: /assets/images/virtual_waiting_room/room_welcome_page.png
+    image_path: assets/images/virtual_waiting_room/room_welcome_page.png
+    alt: "Welcome page of the virtual room"
+  - url: /assets/images/virtual_waiting_room/virtual_waiting_room.png
+    image_path: assets/images/virtual_waiting_room/virtual_waiting_room.png
+    alt: "Virtual waiting room with a simulated doctor's interface"
 ---
 
-The [Travel Memory Game](https://travelmemorygame.netlify.app/) is a front-end web application developed on April 29th/30th during a 24h hackathon at Wild Code School on the topic of traveling from the couch. I was part of a 6-member team and we had only one requirement: using an api.   
+## The project
 
-We decided to design a game that a user in locked down would play in order to travel by seeing webcam videos of a country of his choice. In order to play, you first need to select a country and a category. Then, based on these two criteria, a memory game session will be generated. The objective is to find the 8 matching cards to win an access to the webcam of the chosen country. 
+The **Virtual Waiting Room** is an award-winning front-end web application developed on June 24th - 26th 2020 during a 48h remote hackathon with **Doctolib, Dataiku** and [Wild Code School](https://www.wildcodeschool.com/en-GB) on the topic of remote healthcare.   
 
-{% include gallery caption="These are some screenshot from the game" %}
+We decided to design a **virtual assistant for medical practitioners** to help managing the waiting time during a **tele consultation**. 
 
-For my team and I developing a game has been a good way to materialize what we had been learning during the first 2 months of the program, to consolidate our skills in React.js and learn how to use the hooks. 
+## Main Features
 
-In addition we have used 2 api :
-* [Pixabay](https://pixabay.com/api/docs): we got from the api the images to be displayed in the game session based on 2 parameters: the country and the category (beach, nature etc.)
-* [Windy](https://api.windy.com/webcams/docs): we got an access to a repository of webcams based on the country selected by the user. 
+{% include gallery caption="These are some screenshots of the virtual waiting room" %}
+
+* Welcoming message : 
+  - A message from a welcoming bot confirms that the patient will be notified when his turn comes.
+
+* Virtual waiting room:
+  - A virtual queue which shows the user's turn among the patients and user's webcam 
+  - The first counter recalls how many people are scheduled before the user
+  - The second counter is an estimated waiting time
+  - A chatbot confirming the personal information and asking basic check up questions
+
+* Doctor's dashboard:
+  - The practitioner can welcome a new patient
+  - Inform a potential delay to all patients 
+
+## Technologies
 
 <div style="display:flex; justify-content:space-around; margin:30px 0;">
 <img src="/assets/logo/HTML5_Logo.svg"  alt="HTML5 logo" style="width: 100px; height: auto;"/>
@@ -36,5 +49,11 @@ In addition we have used 2 api :
 <img src="/assets/logo/Reactjs_Logo.svg"  alt="ReactJS logo" style="width: 90px; height: auto; grid-column: 2"/>
 </div>
 
-👉Play [here](https://travelmemorygame.netlify.app/) <br/>
-👉Check the source code [here](https://github.com/clrko/travel_memory_game)
+## They talk about us
+
+- [SMART TECH program of 15/07/2020 42:50](https://youtu.be/80EbT_Oiv5M?t=2572)
+- [Interview](https://www.linkedin.com/posts/wild-codes-chool_retour-sur-notre-dernier-hackathon-avec-linterview-ugcPost-6698867125521547264-bLTk) of [Alexandre Ignjatovic](https://www.linkedin.com/in/alexandre-ignjatovic/) on the Hackathon [French Speakers 🇫🇷]
+- [Award Ceremony](https://www.linkedin.com/posts/activity-6697415902087925760-q4Pp)
+
+👉Check out the full presentation [here](https://www.youtube.com/watch?v=J8esGGOShqM&t=6s)
+👉Check the source code and the team here [here](https://github.com/clrko/hackarburer---Virtual-Waiting-Room)
