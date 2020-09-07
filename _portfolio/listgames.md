@@ -4,7 +4,7 @@ excerpt: "A responsive react app to display video game data."
 header:
   image: /assets/images/checkpoint_list_games/landingpage.png
   teaser: assets/images/checkpoint_list_games/landingpage.png
-order: 2
+order: 4
 gallery:
   - url: /assets/images/checkpoint_list_games/landingpage.png
     image_path: assets/images/checkpoint_list_games/landingpage.png

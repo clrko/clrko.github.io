@@ -4,7 +4,7 @@ excerpt: "An amazing app to enrich your musical knowledge! "
 header:
   image: /assets/images/thunder/welcomepage.png
   teaser: assets/images/thunder/welcomepage.png
-order: 4
+order: 2
 gallery:
   - url: /assets/images/thunder/modepage.png
     image_path: assets/images/thunder/modepage.png
