@@ -51,9 +51,11 @@ We decided to design a **virtual assistant for medical practitioners** to help m
 
 ## They talk about us
 
-- [SMART TECH program of 15/07/2020 42:50](https://youtu.be/80EbT_Oiv5M?t=2572)
-- [Interview](https://www.linkedin.com/posts/wild-codes-chool_retour-sur-notre-dernier-hackathon-avec-linterview-ugcPost-6698867125521547264-bLTk) of [Alexandre Ignjatovic](https://www.linkedin.com/in/alexandre-ignjatovic/) on the Hackathon [French Speakers 🇫🇷]
+- [SMART TECH program of 15/07/2020 42:50](https://youtu.be/80EbT_Oiv5M?t=2572) [French 🇫🇷]
+- [Interview](https://www.linkedin.com/posts/wild-codes-chool_retour-sur-notre-dernier-hackathon-avec-linterview-ugcPost-6698867125521547264-bLTk) of [Alexandre Ignjatovic](https://www.linkedin.com/in/alexandre-ignjatovic/) [French 🇫🇷]
 - [Award Ceremony](https://www.linkedin.com/posts/activity-6697415902087925760-q4Pp)
 
+
 👉Check out the full presentation [here](https://www.youtube.com/watch?v=J8esGGOShqM&t=6s)
-👉Check the source code and the team here [here](https://github.com/clrko/hackarburer---Virtual-Waiting-Room)
+
+👉Check the source code and the team [here](https://github.com/clrko/hackarburer---Virtual-Waiting-Room)
