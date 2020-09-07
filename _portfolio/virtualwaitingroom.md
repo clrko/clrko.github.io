@@ -56,6 +56,6 @@ We decided to design a **virtual assistant for medical practitioners** to help m
 - [Award Ceremony](https://www.linkedin.com/posts/activity-6697415902087925760-q4Pp)
 
 
-👉Check out the full presentation [here](https://www.youtube.com/watch?v=J8esGGOShqM&t=6s)
+👉 Check out the full presentation [here](https://www.youtube.com/watch?v=J8esGGOShqM&t=6s)
 
-👉Check the source code and the team [here](https://github.com/clrko/hackarburer---Virtual-Waiting-Room)
+👉 Check the source code and the team [here](https://github.com/clrko/hackarburer---Virtual-Waiting-Room)
