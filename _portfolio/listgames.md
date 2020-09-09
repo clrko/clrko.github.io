@@ -1,5 +1,5 @@
 ---
-title: "Checkpoint 2 - List Games"
+title: "List Games (CP2)"
 excerpt: "A responsive react app to display video game data."
 header:
   image: /assets/images/checkpoint_list_games/landingpage.png

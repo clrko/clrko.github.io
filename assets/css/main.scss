@@ -9,10 +9,14 @@
 
 a, a:active, a:visited {
     color: #111;
-    -webkit-text-decoration-color: #999;
-    text-decoration-color: #999;
+    -webkit-text-decoration: none;
+    text-decoration: none;
     -webkit-text-decoration-skip: ink;
     text-decoration-skip-ink: auto;
+}
+
+a:hover {
+  color: #999;
 }
 
 .page__footer a {
