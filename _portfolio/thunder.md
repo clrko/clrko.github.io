@@ -6,9 +6,6 @@ header:
   teaser: assets/images/thunder/welcomepage.png
 order: 2
 gallery:
-  - url: /assets/images/thunder/modepage.png
-    image_path: assets/images/thunder/modepage.png
-    alt: "Choose of the game mode"
   - url: /assets/images/thunder/gamesession.png
     image_path: assets/images/thunder/gamesession.png
     alt: "Game session"
@@ -27,12 +24,6 @@ gallery:
   - url: /assets/images/thunder/endsession_mobile.png
     image_path: assets/images/thunder/endsession_mobile.png
     alt: "End session page mobile version"
-  - url: /assets/images/thunder/ranking_mobile.png
-    image_path: assets/images/thunder/ranking_mobile.png
-    alt: "Ranking of the jazz genre mobile version"
-  - url: /assets/images/thunder/userpage_mobile.png
-    image_path: assets/images/thunder/userpage_mobile.png
-    alt: "View of the user page mobile version"
 ---
 
 Thunder is a full-stack musical quiz web application. It has been developed for 5 weeks within Wild Code School curriculum during April and May 2020. I was part of a 4-member team and the main challenge for us was to be able to develop this application applying the SCRUM methodology and working full remote, given the coronavirus health crisis. 
