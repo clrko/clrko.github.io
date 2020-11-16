@@ -1,4 +1,17 @@
-# React Admin
+---
+title: "React-Admin Exploration"
+date: 2020-11-13
+header:
+  image: /assets/images/react_admin/welcome_to_react-admin.png
+categories:
+  - tech watch
+tags: 
+  - React
+  - Material UI
+  - english
+---
+
+As part of my tech watch I came across React-Admin, a frontend Framework that allows us to build admin applications running in the browser. Here I share with you some basic information about it and a quick getting-started tutorial. 
 
 ## Main information
 
@@ -10,10 +23,10 @@
 
 ### How does it work?
 
-* The admin application communicates with any API in a standardized way through data provider, whether the API uses REST, Graphql or anything else.
+* The admin application communicates with any API in a standardized way through a data provider, whether the API uses REST, GraphQL or anything else.
 * Data Provider is an *adapter* for an API. It acts as the interface between them.
 * It takes care of the querying and response handling between both of them.
-  
+
 ![dataprovider](/assets/images/react_admin/data_provider.png)
 * You can use [React-Admin's or open-sourced data providers](https://marmelab.com/react-admin/DataProviders.html#available-providers) and create your own
 
@@ -22,7 +35,7 @@
 * Build the app in a modular way
 * One component maps one API endpoint to a CRUD interface
 * Optimistic rendering
-* Secure the app with the any authentication strategy (Basic Auth, JWT, OAuth, etc.)
+* Secure the app with any authentication strategy (Basic Auth, JWT, OAuth, etc.)
 * Translation system
 * Customization / design using Material UI
 
@@ -40,25 +53,25 @@
 
 ### Basic Implementation
 
-1. Create a new project
+#### 1. Create a new project
 `npx  create-react-app my_dashboard`
 
-2. Install react-admin and your chosen data provider
+#### 2. Install react-admin and your chosen data provider
 
 [Check out this list](https://marmelab.com/react-admin/DataProviders.html)
 
-```js
+```bash
 cd my_dashboard
 
 npm install react-admin ra-data-simple-rest
-// ra-data-simple-rest is the data provider 
+# ra-data-simple-rest is the data provider 
 
 npm start
 ```
 
 ### Start building the app
 
-1. Replace the `src/App.js` with the following code and add your api.
+#### 1. Replace the `src/App.js` with the following code and add your api.
 
 ```js
 // App.js
@@ -72,11 +85,11 @@ const App = () => <Admin dataProvider={dataProvider} />
 export default App;
 ```
 
-This is enough for React-Admin to work. Your Browser should display the following page:
+This is enough for React-Admin to work. Your browser should display the following page:
 
 ![Welcome to React Admin](/assets/images/react_admin/welcome_to_react-admin.png)
 
-2. Now let's display the first resource
+#### 2. Now let's display the first resource
 
 A [`<Resource>` component](https://marmelab.com/react-admin/Resource.html) maps one API endpoint to a CRUD interface. The data provider will make a request to the API `http://path.to.my.api/my_end_point`, in the example below the endpoint will be `/projects`, then display the data using the `ListGuesser` component.
 
@@ -98,11 +111,11 @@ const App = () => {
 export default App;
 ```
 
-3. Create the first component to override the `ListGuesser` suggestion.
+#### 3. Create the first component to override the `ListGuesser` suggestion.
 
-Using the `ListGuesser` module, the app will generate a code **in the console** that will help you create and customize the component.
+Using the `ListGuesser` module, the app will generate source code **in the console** that will help you create and customize the component.
 
-You just need to copy & paste from the console the code and import fields (List, Datagrid etc.) from `react-admin'
+You just need to copy & paste from the console the code and import the fields (List, Datagrid etc.) from `react-admin'
 
 ```js
 // project.js
@@ -126,7 +139,7 @@ export const ProjectList = props => (
 );
 ```
 
-You need now to update the fields with more appropriate one. You also have the possibility to [customize them](https://marmelab.com/react-admin/Theming.html).
+You now need to update the fields with more appropriate ones. You also have the possibility to [customize them](https://marmelab.com/react-admin/Theming.html).
 
 ```js
 import React from 'react'
@@ -150,9 +163,9 @@ export const ProjectList = props => (
 );
 ```
 
-1. Now, let's add an editing feature
+#### 4. Now, let's add an editing feature
 
-Following the same way we did to display the data with the `ListGuesser` module, we can set up the edit feature with the `EditGuesser` module.
+As we did to display the data with the `ListGuesser` module, we can set up the edit feature with the `EditGuesser` module.
 
 ```js
 // App.js
@@ -173,7 +186,7 @@ const App = () => {
 export default App;
 ```
 
-1. Create our component Project Edit
+#### 5. Create our component Project Edit
 
 As you did to list the data with the `ProjectList` component, copy and paste the generated code from the console and save it in the project folder and start customizing the fields.
 
@@ -196,7 +209,7 @@ export const ProjectEdit = props => (
 );
 ```
 
-Don't forget to update the App.js file with your editing component.
+Don't forget to update the `App.js` file with your editing component.
 
 ```js
 import React from 'react'
@@ -216,4 +229,8 @@ const App = () => {
 export default App;
 ```
 
-Please note that by default to edit a feature you need to click on the line you wish to edit but you can also enable an edit button by adding a `<EditButton />` in the Datagrid of your `ProjectList`.
+Please note that by default to edit an item you need to click on the line you wish to edit but you can also enable an edit button by adding a `<EditButton />` in the Datagrid of your `ProjectList`.
+
+To go further, have a look at the [official documentation](https://marmelab.com/react-admin/Readme.html) and the [tutorial](https://marmelab.com/react-admin/Tutorial.html).
+
+Claire
