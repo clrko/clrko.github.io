@@ -63,7 +63,7 @@ plugins:
 author:
   name   : "Claire Lenfant-Kodia"
   avatar : "/assets/images/profilepic.jpg"
-  bio    : "Full Stack Web Developer JavaScript / React.js / Node.js"
+  bio    : "Full Stack Web Developer JavaScript / React.js / Node.js \n [@TransactionConnect](https://www.transactionconnect.com/)"
   location: Paris, France
   links:
 #  - label: "Website"

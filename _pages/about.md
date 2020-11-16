@@ -2,7 +2,7 @@
 permalink: /about/
 title: "Who I am? What makes my profile so attractive ?"
 header:
-  image: /assets/images/BannièreSeptember2020.jpg
+  image: /assets/images/banniere2020.png
 
 ---
 
