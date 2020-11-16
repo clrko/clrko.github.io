@@ -6,7 +6,7 @@ header:
 
 ---
 
-<img src="/assets/images/aboutme.jpg" alt="Claire Kodia" style="width:100px" class="align-left" />
+<img src="/assets/images/aboutme.jpg" alt="Claire Lenfant-Kodia" style="width:100px" class="align-left" />
 
 First things first, I am Claire and after getting a master’s degree in management and working in the finance industry, I have decided to take up a new challenge: transition to a web development position.
 <br>

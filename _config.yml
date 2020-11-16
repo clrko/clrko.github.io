@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Claire Kodia
+title: Claire Lenfant-Kodia
 email: claire.kodia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal website. In it, you find my resume, my protfolio and my blog. Enjoy! 
@@ -61,7 +61,7 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Claire Kodia"
+  name   : "Claire Lenfant-Kodia"
   avatar : "/assets/images/profilepic.jpg"
   bio    : "Full Stack Web Developer JavaScript / React.js / Node.js"
   location: Paris, France
