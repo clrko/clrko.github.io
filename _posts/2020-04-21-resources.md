@@ -4,10 +4,9 @@ date: 2020-04-21
 header:
   image: /assets/images/absolutvision-resources.jpg
 categories:
-  - blog
-tags: 
   - tech watch
-  - developper 
+tags: 
+  - developer 
   - toolbox
   - english
 ---
